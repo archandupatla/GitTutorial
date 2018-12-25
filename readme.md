@@ -1,1 +1,1 @@
-This is sample git tutorial
+This is sample git tutorial2
